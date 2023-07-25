@@ -52,9 +52,9 @@ Raw Data are available in the the MassIVE repository [MSV000087970](https://doi.
 
 ## Contributors
 
-|Name     |  Twitter Handle   | 
+|Name     |  Twitter   |  Linkedin   | 
 |---------|-----------------|
-|[Luis Quiros-Guerrero](https://github.com/luigiquiros)| @luisquirosg       |
+|[Luis Quiros-Guerrero](https://github.com/luigiquiros)| [@luisquirosg](https://twitter.com/LuisQuirosG) | [@luisquirosg](https://www.linkedin.com/in/luisquirosg/) |
 
 
 
