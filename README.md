@@ -17,15 +17,15 @@ Their exploration makes the object of the current Data Descriptor.
 
 #### Centro de Investigaciones en Productos Naturales (CIPRONA, UCR)
 
-- http://ciprona.ucr.ac.cr/
+- [http://ciprona.ucr.ac.cr/]
 
 #### Centro de Investigacion en Biologia Celular y Molecular (CIBCM, UCR)
 
-- https://cibcm.ucr.ac.cr/
+- [https://cibcm.ucr.ac.cr/]
 
 #### Instituto National de la Biodiversidad 
 
-- https://web.archive.org/web/20080307145448/http://www.inbio.ac.cr/es/default.html
+- [https://web.archive.org/web/20080307145448/http://www.inbio.ac.cr/es/default.html] #deprecated
 
 ## Project Abstract 
 > 
