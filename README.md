@@ -48,7 +48,7 @@ Raw Data are available in the the MassIVE repository [MSV000087970](https://doi.
 
 ## other information available 
 
-### Full clean taxonomical information file [**Taxonomical information clean**](/docs/Clean_collection_taxonomical_data.tsv)
+### Full clean taxonomical information file [**Taxonomical information clean**](/docs/Clean_collection_taxonomical_data.html)
 
 <!-- tocstop -->
 
