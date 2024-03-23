@@ -32,10 +32,6 @@ School of Pharmaceutical Sciences, University of Geneva, CMU, Rue Michel-Servet 
 todo.
 
 
-## Data availability  
-
-Raw Data are available in the the MassIVE repository [MSV000087970](https://doi.org/doi:10.25345/C5PJ9N).
-
 <!-- toc -->
 
 ## Publication interactive images
