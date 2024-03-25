@@ -42,6 +42,9 @@ todo.
 
 ### Additional file [**Taxonomical coverage of the Families**](/docs/family_coverage_plot.html)
 
+
+### Fig 2 [**Overview of chemical superclasses of the reported compounds in the 300 species collection**](/docs/Wikidata_superclass_barplot_species.html)
+
 ## other information available 
 
 ### Full clean taxonomical information file [**Taxonomical information clean**](/docs/Clean_collection_taxonomical_data.html)
