@@ -47,7 +47,10 @@ todo.
 
 ## other information available 
 
-### Full clean taxonomical information file [**Taxonomical information clean**](/docs/Clean_collection_taxonomical_data.html)
+### Full clean taxonomical information file. Supplementary Table SI [**Taxonomical information clean**](/docs/Clean_collection_taxonomical_data.html)
+
+
+### Active compounds present in the reported chemistry of the collection. Supplementary Table SII [**Taxonomical information clean**](/docs/species_with_active_compounds.html)
 
 <!-- tocstop -->
 
