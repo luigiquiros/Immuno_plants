@@ -29,8 +29,7 @@ School of Pharmaceutical Sciences, University of Geneva, CMU, Rue Michel-Servet 
 
 ## Project Abstract 
 
-todo.
-
+This work aimed to identify bioactive natural products (NPs) by evaluating 300 natural extracts (NEs) from Costa Rican biodiversity for their anti-inflammatory, pro-inflammatory, cytotoxic and mitogenic activities. 
 
 <!-- toc -->
 
