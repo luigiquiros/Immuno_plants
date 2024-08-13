@@ -45,6 +45,10 @@ todo.
 
 ### Fig 2 [**Overview of chemical superclasses of the reported compounds in the 300 species collection**](/docs/Wikidata_superclass_barplot_species.html)
 
+### Fig S5a. [**Sunburst of chemical classes SIRIUS-CANOPUS in PI for M. woodsonii**](/docs/Maytenus_woodsonii_(positive)_sunburst.html)
+
+### Fig S5b. [**Sunburst of chemical classes SIRIUS-CANOPUS in NI for M. woodsonii**](/docs/Maytenus_woodsonii_(negative)_sunburst.html)
+
 ## other information available 
 
 ### Full clean taxonomical information file. Supplementary Table SI [**Taxonomical information clean**](/docs/Clean_collection_taxonomical_data.html)
