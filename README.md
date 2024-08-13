@@ -44,9 +44,9 @@ This work aimed to identify bioactive natural products (NPs) by evaluating 300 n
 
 ### Fig 2 [**Overview of chemical superclasses of the reported compounds in the 300 species collection**](/docs/Wikidata_superclass_barplot_species.html)
 
-### Fig S5a. [**Sunburst of chemical classes SIRIUS-CANOPUS in PI for M. woodsonii**](/docs/Maytenus_woodsonii_(positive)_sunburst.html)
+### Fig S5a. [**Sunburst of chemical classes SIRIUS-CANOPUS in PI for M. woodsonii**](/docs/Maytenus_woodsonii_positive_sunburst.html)
 
-### Fig S5b. [**Sunburst of chemical classes SIRIUS-CANOPUS in NI for M. woodsonii**](/docs/Maytenus_woodsonii_(negative)_sunburst.html)
+### Fig S5b. [**Sunburst of chemical classes SIRIUS-CANOPUS in NI for M. woodsonii**](/docs/Maytenus_woodsonii_negative_sunburst.html)
 
 ## other information available 
 
@@ -56,7 +56,6 @@ This work aimed to identify bioactive natural products (NPs) by evaluating 300 n
 ### Active compounds present in the reported chemistry of the collection. Supplementary Table SII [**Taxonomical information clean**](/docs/species_with_active_compounds.html)
 
 <!-- tocstop -->
-
 
 
 ## Contributors
